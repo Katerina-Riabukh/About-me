@@ -10,6 +10,13 @@
           width="70"
           height="70"
       /></a>
+       <a href="https://katerina.riabukh@gmail.com"
+        ><img
+         src="./images/Email-Icon_icon-icons.com_52870.png"
+          alt="email"
+          width="72"
+          height="72"
+      /></a>
       <a href="https://linkedin.com/in/katerinariabukh"
         ><img
           src="./images/linkedin_icon-icons.com_53609.png"
@@ -17,13 +24,7 @@
           width="70"
           height="70"
       /></a>
-      <a href="https://katerina.riabukh@gmail.com"
-        ><img
-         src="./images/Email-Icon_icon-icons.com_52870.png"
-          alt="telegram"
-          width="72"
-          height="72"
-      /></a>
+    
     </div>
 
 **_I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟_**
