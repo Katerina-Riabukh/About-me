@@ -18,9 +18,8 @@
           height="70"
       /></a>
     </div>
-    ***
 
- I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟
+ ***I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟***
 ***
 - 🏫 Successfully completed a course of fullstack developer from [GoIT](https://github.com/goitacademy)
 
