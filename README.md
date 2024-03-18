@@ -1,8 +1,4 @@
 
-# Hi 👋 My name is Kateryna Riabukh
-
-## 👩‍💻Fullstack developer
-
 I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟
 
 - 🏫 Successfully completed a course of fullstack developer from [GoIT](https://github.com/goitacademy)
