@@ -17,6 +17,13 @@
           width="70"
           height="70"
       /></a>
+      <a href="https://katerina.riabukh@gmail.com"
+        ><img
+         src="./images/mail_macos_bigsur_icon_190003.png"
+          alt="telegram"
+          width="70"
+          height="70"
+      /></a>
     </div>
 
  ***I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟***
