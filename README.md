@@ -2,7 +2,7 @@
       <h1>Hi there 👋, my name is Katerina</h1>
       <h2>Full Stack Developer</h2>
     </div>
-    <div text-align="center">
+    <div align="center">
       <a href="https://t.me/Katerina_Riabukh"
         ><img
           src="./images/telegram_icon-icons.com_53603.png"
