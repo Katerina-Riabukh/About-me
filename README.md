@@ -21,8 +21,8 @@
         ><img
          src="./images/Email-Icon_icon-icons.com_52870.png"
           alt="telegram"
-          width="75"
-          height="75"
+          width="72"
+          height="72"
       /></a>
     </div>
 
