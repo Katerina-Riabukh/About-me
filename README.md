@@ -5,7 +5,7 @@
     <div align="center">
       <a href="https://t.me/Katerina_Riabukh"
         ><img
-          src="./images/mail_macos_bigsur_icon_190003.png"
+          src="./images/telegram_icon-icons.com_53603.png"
           alt="telegram"
           width="70"
           height="70"
@@ -26,14 +26,14 @@
       /></a>
     </div>
 
- ***I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟***
-***
+**_I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟_**
+
+---
+
 - 🏫 Successfully completed a course of fullstack developer from [GoIT](https://github.com/goitacademy)
 
 - Please contact me at 📧 [email](mailto:katerina.riabukh@gmail.com)
- 
+
 - 🌍 I'm based currently in Amsterdam, Netherlands
 
 - 🤝 I'm opening to cooperation and collaboration
-
-
