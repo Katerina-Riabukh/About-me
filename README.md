@@ -19,7 +19,7 @@
       /></a>
       <a href="https://katerina.riabukh@gmail.com"
         ><img
-         src="./images/mail_macos_bigsur_icon_190003.png"
+         src="./images/Email-Icon_icon-icons.com_52870.png"
           alt="telegram"
           width="70"
           height="70"
