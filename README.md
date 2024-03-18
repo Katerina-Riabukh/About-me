@@ -25,7 +25,8 @@
           height="70"
       /></a>
     </div>
-
+---
+    
 **_I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟_**
 
 ---
