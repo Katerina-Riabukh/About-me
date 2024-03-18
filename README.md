@@ -1,10 +1,8 @@
-<<<<<<< Updated upstream
-=======
- <div class="greetind">
+ <div text-align="center">
       <h1>Hi there 👋, my name is Katerina</h1>
       <h2>Full Stack Developer</h2>
     </div>
-    <div class="connection">
+    <div text-align="center">
       <a href="https://t.me/Katerina_Riabukh"
         ><img
           src="./images/telegram_icon-icons.com_53603.png"
@@ -20,7 +18,6 @@
           height="70"
       /></a>
     </div>
->>>>>>> Stashed changes
 
 I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟
 
