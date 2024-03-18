@@ -1,4 +1,3 @@
-# About-me
 
 # Hi 👋 My name is Kateryna Riabukh
 
