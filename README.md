@@ -5,7 +5,7 @@
     <div align="center">
       <a href="https://t.me/Katerina_Riabukh"
         ><img
-          src="./images/telegram_icon-icons.com_53603.png"
+          src="./images/mail_macos_bigsur_icon_190003.png"
           alt="telegram"
           width="70"
           height="70"
