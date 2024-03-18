@@ -32,8 +32,6 @@
 
 - 🏫 Successfully completed a course of fullstack developer from [GoIT](https://github.com/goitacademy)
 
-- Please contact me at 📧 [email](mailto:katerina.riabukh@gmail.com)
-
 - 🌍 I'm based currently in Amsterdam, Netherlands
 
 - 🤝 I'm opening to cooperation and collaboration
