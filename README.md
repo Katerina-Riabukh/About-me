@@ -36,3 +36,5 @@
 - 🌍 I'm based currently in Amsterdam, Netherlands
 
 - 🤝 I'm opening to cooperation and collaboration
+
+-  [About me](#Im-at-the-begining-of-my-development-jorney-and-I-believe-this-jorney-will-be-exciting).
