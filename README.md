@@ -26,7 +26,7 @@
       /></a>
     </div>
 
-    ![Link to my linkedin](/images/Email-Icon_icon-icons.com_52870.p)
+    ![Link to my linkedin](../images/Email-Icon_icon-icons.com_52870.p)
 
 ---    
 **_I`m at the begining of my development jorney, and I believe this jorney will be exciting 🌟_**
