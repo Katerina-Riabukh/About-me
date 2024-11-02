@@ -37,4 +37,4 @@
 
 - 🤝 I'm opening to cooperation and collaboration
 
- ![Link to my linkedin](https://stockcake.com/i/mysterious-fox-trio_1424157_1075355)
+ ![Link to my linkedin](https://www.svgrepo.com/svg/42160/clip)
