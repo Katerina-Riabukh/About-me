@@ -37,4 +37,4 @@
 
 - 🤝 I'm opening to cooperation and collaboration
 
- ![Link to my linkedin](https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/)
+ ![Link to my linkedin](https://stockcake.com/i/mysterious-fox-trio_1424157_1075355)
