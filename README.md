@@ -37,4 +37,4 @@
 
 - 🤝 I'm opening to cooperation and collaboration
 
- ![Link to my linkedin](./images/Email-Icon_icon-icons.com_52870.p)
+ ![Link to my linkedin](https://pixabay.com/photos/tree-sunset-clouds-sky-silhouette-736885/)
