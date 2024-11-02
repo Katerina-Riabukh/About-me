@@ -36,5 +36,3 @@
 - 🌍 I'm based currently in Amsterdam, Netherlands
 
 - 🤝 I'm opening to cooperation and collaboration
-
- ![Link to my linkedin](https://www.svgrepo.com/svg/42160/clip)
